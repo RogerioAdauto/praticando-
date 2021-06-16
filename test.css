@@ -1,0 +1,19 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+
+#titulo{
+    font-family: sans-serif;
+    color: #00Bfff;
+    margin-left:  20%;
+
+}
+
+#subtitulo{
+	font-family: sans-serif;
+	color: (0,0,255);
+	margin-left: 12%;
+	margin-top: 25%:
+	;
+}
